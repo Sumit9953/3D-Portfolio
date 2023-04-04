@@ -23,6 +23,19 @@ import {
     jobit,
     tripguide,
     threejs,
+    crm,
+    desk,
+    deluge,
+    Creator,
+    analytics,
+    backstage,
+    Books,
+    developer_consoler,
+    flow,
+    forms,
+    salesiq,
+    sign,
+    writter,
   } from "../assets";
   
   export const navLinks = [
@@ -43,74 +56,74 @@ import {
   const services = [
     {
       title: "Web Developer",
-      icon: web,
+      icon: crm,
     },
     {
       title: "React Native Developer",
-      icon: mobile,
+      icon: deluge,
     },
     {
       title: "Backend Developer",
-      icon: backend,
+      icon: flow,
     },
     {
       title: "Content Creator",
-      icon: creator,
+      icon: Creator,
     },
   ];
   
   const technologies = [
     {
       name: "HTML 5",
-      icon: html,
+      icon: crm,
     },
     {
       name: "CSS 3",
-      icon: css,
+      icon: deluge,
     },
     {
       name: "JavaScript",
-      icon: javascript,
+      icon: flow,
     },
     {
       name: "TypeScript",
-      icon: typescript,
+      icon: Creator,
     },
     {
       name: "React JS",
-      icon: reactjs,
+      icon: analytics,
     },
     {
       name: "Redux Toolkit",
-      icon: redux,
+      icon: backstage,
     },
     {
       name: "Tailwind CSS",
-      icon: tailwind,
+      icon: Books,
     },
     {
       name: "Node JS",
-      icon: nodejs,
+      icon: desk,
     },
     {
       name: "MongoDB",
-      icon: mongodb,
+      icon: developer_consoler,
     },
     {
       name: "Three JS",
-      icon: threejs,
+      icon: forms,
     },
     {
       name: "git",
-      icon: git,
+      icon: salesiq,
     },
     {
       name: "figma",
-      icon: figma,
+      icon: sign,
     },
     {
       name: "docker",
-      icon: docker,
+      icon: writter,
     },
   ];
   

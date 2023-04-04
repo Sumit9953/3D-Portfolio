@@ -18,9 +18,9 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]">Santosh</span>{" "}
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Lorem ipsum dolor sit amet consectetur{" "}
-            <br className="sm:block hidden" /> adipisicing elit. Quasi labore
-            officia rerum, aliquid dolorem quos!
+            I am a Zoho Developer.{" "}
+            <br className="sm:block hidden" /> Adaptable Zoho Developer with extensive experience providing first class result. Meets job demands
+and deadlines through diligent work-ethic and dedication to quality.
           </p>
         </div>
       </div>

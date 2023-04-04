@@ -29,6 +29,19 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import crm from "./crm.png";
+import desk from "./desk.png";
+import deluge from "./deluge.png";
+import Creator from "./Creator.png";
+import analytics from "./analytics.png";
+import backstage from "./backstage.png";
+import Books from "./Books.png";
+import developer_consoler from "./developer_consoler.png";
+import flow from "./flow.png";
+import forms from "./forms.png";
+import salesiq from "./salesiq.png";
+import sign from "./sign.png";
+import writter from "./writter.png";
 
 export {
   logo,
@@ -59,4 +72,17 @@ export {
   carrent,
   jobit,
   tripguide,
+  crm,
+  desk,
+  deluge,
+  Creator,
+  analytics,
+  backstage,
+  Books,
+  developer_consoler,
+  flow,
+  forms,
+  salesiq,
+  sign,
+  writter,
 };
